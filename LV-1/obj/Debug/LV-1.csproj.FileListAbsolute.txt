@@ -1,0 +1,7 @@
+E:\Buisness\DOOP\LV-1\LV-1\obj\Debug\LV-1.csprojAssemblyReference.cache
+E:\Buisness\DOOP\LV-1\LV-1\obj\Debug\LV-1.csproj.CoreCompileInputs.cache
+E:\Buisness\DOOP\LV-1\LV-1\bin\Debug\LV-1.exe.config
+E:\Buisness\DOOP\LV-1\LV-1\bin\Debug\LV-1.exe
+E:\Buisness\DOOP\LV-1\LV-1\bin\Debug\LV-1.pdb
+E:\Buisness\DOOP\LV-1\LV-1\obj\Debug\LV-1.exe
+E:\Buisness\DOOP\LV-1\LV-1\obj\Debug\LV-1.pdb
