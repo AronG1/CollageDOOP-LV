@@ -1,0 +1,7 @@
+E:\Buisness\CollageDOOP-LV\LV-2\LV-2\bin\Debug\LV-2.exe.config
+E:\Buisness\CollageDOOP-LV\LV-2\LV-2\bin\Debug\LV-2.exe
+E:\Buisness\CollageDOOP-LV\LV-2\LV-2\bin\Debug\LV-2.pdb
+E:\Buisness\CollageDOOP-LV\LV-2\LV-2\obj\Debug\LV-2.csprojAssemblyReference.cache
+E:\Buisness\CollageDOOP-LV\LV-2\LV-2\obj\Debug\LV-2.csproj.CoreCompileInputs.cache
+E:\Buisness\CollageDOOP-LV\LV-2\LV-2\obj\Debug\LV-2.exe
+E:\Buisness\CollageDOOP-LV\LV-2\LV-2\obj\Debug\LV-2.pdb
