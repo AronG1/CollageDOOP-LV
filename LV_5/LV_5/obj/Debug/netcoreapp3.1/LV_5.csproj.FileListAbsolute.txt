@@ -1,0 +1,17 @@
+E:\Buisness\CollageDOOP-LV\LV_5\LV_5\obj\Debug\netcoreapp3.1\LV_5.csprojAssemblyReference.cache
+E:\Buisness\CollageDOOP-LV\LV_5\LV_5\obj\Debug\netcoreapp3.1\LV_5.AssemblyInfoInputs.cache
+E:\Buisness\CollageDOOP-LV\LV_5\LV_5\obj\Debug\netcoreapp3.1\LV_5.AssemblyInfo.cs
+E:\Buisness\CollageDOOP-LV\LV_5\LV_5\obj\Debug\netcoreapp3.1\LV_5.csproj.CoreCompileInputs.cache
+E:\Buisness\CollageDOOP-LV\LV_5\LV_5\bin\Debug\netcoreapp3.1\LV_5.exe
+E:\Buisness\CollageDOOP-LV\LV_5\LV_5\bin\Debug\netcoreapp3.1\LV_5.deps.json
+E:\Buisness\CollageDOOP-LV\LV_5\LV_5\bin\Debug\netcoreapp3.1\LV_5.runtimeconfig.json
+E:\Buisness\CollageDOOP-LV\LV_5\LV_5\bin\Debug\netcoreapp3.1\LV_5.runtimeconfig.dev.json
+E:\Buisness\CollageDOOP-LV\LV_5\LV_5\bin\Debug\netcoreapp3.1\LV_5.dll
+E:\Buisness\CollageDOOP-LV\LV_5\LV_5\bin\Debug\netcoreapp3.1\LV_5.pdb
+E:\Buisness\CollageDOOP-LV\LV_5\LV_5\obj\Debug\netcoreapp3.1\LV_5.dll
+E:\Buisness\CollageDOOP-LV\LV_5\LV_5\obj\Debug\netcoreapp3.1\LV_5.pdb
+E:\Buisness\CollageDOOP-LV\LV_5\LV_5\obj\Debug\netcoreapp3.1\LV_5.genruntimeconfig.cache
+E:\Buisness\CollageDOOP-LV\LV_5\LV_5\bin\Debug\netcoreapp3.1\LV-3.exe
+E:\Buisness\CollageDOOP-LV\LV_5\LV_5\bin\Debug\netcoreapp3.1\LV-3.dll
+E:\Buisness\CollageDOOP-LV\LV_5\LV_5\bin\Debug\netcoreapp3.1\LV-3.pdb
+E:\Buisness\CollageDOOP-LV\LV_5\LV_5\obj\Debug\netcoreapp3.1\LV_5.csproj.CopyComplete

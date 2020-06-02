@@ -1,0 +1,12 @@
+E:\Buisness\CollageDOOP-LV\LV_6\LV_6\bin\Debug\netcoreapp3.1\LV_6.exe
+E:\Buisness\CollageDOOP-LV\LV_6\LV_6\bin\Debug\netcoreapp3.1\LV_6.deps.json
+E:\Buisness\CollageDOOP-LV\LV_6\LV_6\bin\Debug\netcoreapp3.1\LV_6.runtimeconfig.json
+E:\Buisness\CollageDOOP-LV\LV_6\LV_6\bin\Debug\netcoreapp3.1\LV_6.runtimeconfig.dev.json
+E:\Buisness\CollageDOOP-LV\LV_6\LV_6\bin\Debug\netcoreapp3.1\LV_6.dll
+E:\Buisness\CollageDOOP-LV\LV_6\LV_6\bin\Debug\netcoreapp3.1\LV_6.pdb
+E:\Buisness\CollageDOOP-LV\LV_6\LV_6\obj\Debug\netcoreapp3.1\LV_6.AssemblyInfoInputs.cache
+E:\Buisness\CollageDOOP-LV\LV_6\LV_6\obj\Debug\netcoreapp3.1\LV_6.AssemblyInfo.cs
+E:\Buisness\CollageDOOP-LV\LV_6\LV_6\obj\Debug\netcoreapp3.1\LV_6.csproj.CoreCompileInputs.cache
+E:\Buisness\CollageDOOP-LV\LV_6\LV_6\obj\Debug\netcoreapp3.1\LV_6.dll
+E:\Buisness\CollageDOOP-LV\LV_6\LV_6\obj\Debug\netcoreapp3.1\LV_6.pdb
+E:\Buisness\CollageDOOP-LV\LV_6\LV_6\obj\Debug\netcoreapp3.1\LV_6.genruntimeconfig.cache

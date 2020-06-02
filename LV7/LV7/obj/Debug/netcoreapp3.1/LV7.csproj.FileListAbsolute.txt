@@ -1,0 +1,15 @@
+E:\Buisness\CollageDOOP-LV\LV7\LV7\bin\Debug\netcoreapp3.1\LV7.exe
+E:\Buisness\CollageDOOP-LV\LV7\LV7\bin\Debug\netcoreapp3.1\LV7.deps.json
+E:\Buisness\CollageDOOP-LV\LV7\LV7\bin\Debug\netcoreapp3.1\LV7.runtimeconfig.json
+E:\Buisness\CollageDOOP-LV\LV7\LV7\bin\Debug\netcoreapp3.1\LV7.runtimeconfig.dev.json
+E:\Buisness\CollageDOOP-LV\LV7\LV7\bin\Debug\netcoreapp3.1\LV7.dll
+E:\Buisness\CollageDOOP-LV\LV7\LV7\bin\Debug\netcoreapp3.1\LV7.pdb
+E:\Buisness\CollageDOOP-LV\LV7\LV7\obj\Debug\netcoreapp3.1\LV7.csprojAssemblyReference.cache
+E:\Buisness\CollageDOOP-LV\LV7\LV7\obj\Debug\netcoreapp3.1\LV7.AssemblyInfoInputs.cache
+E:\Buisness\CollageDOOP-LV\LV7\LV7\obj\Debug\netcoreapp3.1\LV7.AssemblyInfo.cs
+E:\Buisness\CollageDOOP-LV\LV7\LV7\obj\Debug\netcoreapp3.1\LV7.dll
+E:\Buisness\CollageDOOP-LV\LV7\LV7\obj\Debug\netcoreapp3.1\LV7.pdb
+E:\Buisness\CollageDOOP-LV\LV7\LV7\obj\Debug\netcoreapp3.1\LV7.genruntimeconfig.cache
+E:\Buisness\CollageDOOP-LV\LV7\LV7\bin\Debug\netcoreapp3.1\nunit.framework.dll
+E:\Buisness\CollageDOOP-LV\LV7\LV7\obj\Debug\netcoreapp3.1\LV7.csproj.CoreCompileInputs.cache
+E:\Buisness\CollageDOOP-LV\LV7\LV7\obj\Debug\netcoreapp3.1\LV7.csproj.CopyComplete

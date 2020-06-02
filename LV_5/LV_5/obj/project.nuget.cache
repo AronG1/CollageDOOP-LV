@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rWlI9roRFXzHOS+DI7CttOfFwhxg/DXUaMmlGrAZf9ABNvLVOoy5PTQAAOSsQ/H3OKtAWFqwHL6WygP3fGn+AQ==",
+  "success": true,
+  "projectFilePath": "E:\\Buisness\\CollageDOOP-LV\\LV_5\\LV_5\\LV_5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aron\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

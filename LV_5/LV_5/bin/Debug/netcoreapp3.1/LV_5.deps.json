@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LV_5/1.0.0": {
+        "dependencies": {
+          "LV-3": "1.0.0"
+        },
+        "runtime": {
+          "LV_5.dll": {}
+        }
+      },
+      "LV-3/1.0.0": {
+        "runtime": {
+          "LV-3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LV_5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LV-3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
